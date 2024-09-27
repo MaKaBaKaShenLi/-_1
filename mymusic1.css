@@ -1,0 +1,44 @@
+body{
+	background-image: url("tupian/sgs.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#div_up{
+	width: 100%;
+	height: 10%;
+	text-align: center;
+	background-color: rgba(255,235,10,0.5);
+	border-radius: 10px;
+}
+#div1{
+	margin-top: 50px;
+	margin-left: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+}
+#up1{
+	font-size: 30px;
+	width: 160px;
+	text-align: left;
+	color: deepskyblue;
+}
+.up2{
+	color: deepskyblue;
+	font-size: 40px;
+	width: 15%;
+}
+a:link{
+	color: deepskyblue;
+}
+a:hover{
+	color: hotpink;
+}
+.img{
+	position: relative;
+	border-radius: 20px;
+	left: 200px;
+	top: 100px;
+	margin-top: 80px;
+	width: 400px;
+	height: 250px;
+}

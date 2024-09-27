@@ -1,0 +1,86 @@
+body{
+	background-image: url("tupian/makabaka.jpg");
+	background-repeat: no-repeat;/* 网页不重复放图片 */
+	background-size: cover;/* 跟着网页大小变化 */
+}
+#div_music{
+	width: 50%;
+	height: 50%;
+	background-image: url("tupian/sgs.jpeg");
+	background-size: cover;
+	border-radius: 0.9375rem;
+	position: absolute;
+	right: 0;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	margin: auto;
+}
+#div1{
+	text-align: center;
+	color: powderblue;
+	font-size: 20px;
+	margin-top: 10px;
+}
+input[type='text']{
+	text-align: center;
+	border-radius: 10px;
+	color: deepskyblue;
+	width: 250px;
+	height: 25px;
+	position: absolute;
+	left: 100px;
+	top: 70px;
+}
+input[type='password']{
+	text-align: center;
+	border-radius: 10px;
+	color: deepskyblue;
+	width: 250px;
+	height: 25px;
+	position: absolute;
+	left: 100px;
+	top: 140px;
+}
+input[type='submit']{
+	text-align: center;
+	border-radius: 10px;
+	width: 70px;
+	height: 25px;
+	position: absolute;
+	left: 100px;
+	top: 200px;
+}
+input[type='reset']{
+	text-align: center;
+	border-radius: 10px;
+	width: 70px;
+	height: 25px;
+	position: absolute;
+	right: 160px;
+	top: 200px;
+}
+input[type='button']{
+	text-align: center;
+	border-radius: 10px;
+	width: 70px;
+	height: 25px;
+	position: absolute;
+	right: 65px;
+	top: 200px;
+	
+}
+#img1{
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 65px;
+	left: 50px;
+}
+#img2{
+	width: 40px;
+	height: 40px;
+	position: absolute;
+	top: 135px;
+	left: 50px;
+}
